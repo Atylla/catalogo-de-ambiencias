@@ -1,0 +1,132 @@
+:root {
+    --background-secondary:  rgb(46, 46, 46);
+    --shadow-s: 0 2px 6px rgba(0, 0, 0, 0.35);
+    --shadow-m: 0 6px 18px rgba(0, 0, 0, 0.45);
+}
+
+body {
+    background-color: rgb(27, 27, 27);
+    padding: 1rem;
+    font-family: system-ui, sans-serif;
+}
+
+header {
+    margin-bottom: 1rem;
+    text-align: center;
+    padding: 0.5rem;
+    background-color: rgb(46, 46, 46);
+    border-radius: 8px;
+}
+
+header button {
+    background:  rgb(27, 27, 27);
+    color: white;
+    border: none;
+    border-radius: 6px;
+    padding: 0.5rem 1rem;
+    margin: 0 0.3rem;
+    cursor: pointer;
+    transition: background 0.2s ease, color 0.2s ease;
+}
+
+header button.active {
+  background: #6c5ce7;
+  color: white;
+}
+
+header h1 {
+    color: white;
+    margin: 0;
+}
+
+.pesquisa-1 {
+    margin-bottom: 1rem;
+}
+
+input {
+    margin-bottom: 0.5rem;
+    padding: 6px;
+    width: 100%;
+    border-radius: 6px;
+    border: none;
+}
+
+input {
+    background: rgb(46, 46, 46);
+    color: #eee;
+}
+
+input::placeholder {
+    color: #aaa;
+}
+
+.cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 1rem;
+}
+
+.cards>div {
+    background: var(--background-secondary);
+    border-radius: 14px;
+    overflow: hidden;
+    box-shadow: var(--shadow-s);
+    padding: 0;
+    cursor: pointer;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.cards>div:hover {
+    transform: translateY(-4px);
+    box-shadow: var(--shadow-m);
+}
+
+.cards img {
+    width: 100%;
+    display: block;
+}
+
+.card-title {
+    padding: 0.6rem;
+    text-align: center;
+    font-weight: 600;
+    color: #eee;
+}
+
+.credits {
+    margin: 1rem auto 1.5rem;
+    padding: 0.9rem 1rem;
+    max-width: 900px;
+
+    display: flex;
+    gap: 0.75rem;
+    align-items: flex-start;
+
+    background: rgba(0, 0, 0, 0.25);
+    border-left: 4px solid #6c5ce7;
+    border-radius: 10px;
+
+    box-shadow: var(--shadow-s);
+}
+
+.credits-icon {
+    font-size: 1.4rem;
+    line-height: 1;
+}
+
+.credits p {
+    margin: 0;
+    font-size: 0.9rem;
+    color: #e0e0e0;
+    line-height: 1.4;
+}
+
+.credits a {
+    color: #a29bfe;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.credits a:hover {
+    text-decoration: underline;
+}
