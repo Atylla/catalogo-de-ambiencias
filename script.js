@@ -3,7 +3,7 @@ const nameInput = document.querySelectorAll(".pesquisa-1 input")[1];
 const cardsContainer = document.querySelector(".cards");
 
 const FILES = [
-    "A colméia.md",
+    "a-colmeia.md",
     "Acampamento ao anoitecer.md",
     "Acampamento ao entardecer.md",
     "Acampamento na Caverna.md",
