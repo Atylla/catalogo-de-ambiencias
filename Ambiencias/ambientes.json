@@ -1,0 +1,1826 @@
+[
+  {
+    "nome": "a-colmeia",
+    "": [],
+    "tipo": "bioma",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "bioma"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/muG-Zrta8sY/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=muG-Zrta8sY"
+  },
+  {
+    "nome": "Acampamento ao anoitecer",
+    "": [],
+    "tipo": "acampamento",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "acampamento"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/vMBKEZvZ7qU/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=vMBKEZvZ7qU"
+  },
+  {
+    "nome": "Acampamento ao entardecer",
+    "": [],
+    "tipo": "acampamento",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "acampamento"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/XUts4U8saJc/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=XUts4U8saJc"
+  },
+  {
+    "nome": "Acampamento na caverna no deserto",
+    "": [],
+    "tipo": "acampamento",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "acampamento",
+      "deserto",
+      "caverna"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/n9fvcnkEyN8/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=n9fvcnkEyN8"
+  },
+  {
+    "nome": "Acampamento na Caverna",
+    "": [],
+    "tipo": "acampamento",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "acampamento",
+      "caverna"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/rvrmMwJd4Kc/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=rvrmMwJd4Kc"
+  },
+  {
+    "nome": "Acampamento na floresta",
+    "": [],
+    "tipo": "acampamento",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "acampamento",
+      "floresta"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/imxILmKjjCQ/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=imxILmKjjCQ"
+  },
+  {
+    "nome": "Acampamento na nevasca",
+    "": [],
+    "tipo": "acampamento",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "acampamento",
+      "neve"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/2Qwirzv90Ek/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=2Qwirzv90Ek"
+  },
+  {
+    "nome": "Acampamento na tundra gelada",
+    "": [],
+    "tipo": "acampamento",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "acampamento",
+      "gelo"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/4EZpX881Cl4/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=4EZpX881Cl4"
+  },
+  {
+    "nome": "Acampamento no deserto",
+    "": [],
+    "tipo": "acampamento",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "acampamento",
+      "deserto"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/rOAiDBTr-N8/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=rOAiDBTr-N8"
+  },
+  {
+    "nome": "Acampamento no pântano",
+    "": [],
+    "tipo": "acampamento",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "acampamento",
+      "pantano"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/oMY4RkrwPKg/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=oMY4RkrwPKg"
+  },
+  {
+    "nome": "Area vulcanica",
+    "": [],
+    "tipo": "bioma",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "bioma"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/Eog0_lru8sI/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=Eog0_lru8sI"
+  },
+  {
+    "nome": "Arena",
+    "": [],
+    "tipo": "lugar",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "cidade",
+      "estabelecimento"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/plUgICpVAoc/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=plUgICpVAoc"
+  },
+  {
+    "nome": "Barco a Vela",
+    "": [],
+    "tipo": "lugar",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "mar",
+      "navio"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/beOw8MEojQ4/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=beOw8MEojQ4"
+  },
+  {
+    "nome": "Batalha na Cidade",
+    "": [],
+    "tipo": "cidade",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "cidade",
+      "noite",
+      "batalha"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/nEjMmL1nfsk/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=nEjMmL1nfsk"
+  },
+  {
+    "nome": "Batalha",
+    "": [],
+    "tipo": "lugar",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "batalha"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/EspwQ6Phw0g/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=EspwQ6Phw0g"
+  },
+  {
+    "nome": "Bazaar",
+    "": [],
+    "tipo": "lugar",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "mercado",
+      "oriente"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/8uRtW8lBe0I/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=8uRtW8lBe0I"
+  },
+  {
+    "nome": "Biblioteca",
+    "": [],
+    "tipo": "lugar",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "estabelecimento"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/VvC12NAf-Cw/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=VvC12NAf-Cw"
+  },
+  {
+    "nome": "Campo",
+    "": [],
+    "tipo": "bioma",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "campo",
+      "bioma"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/wEEc9RhHTzU/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=wEEc9RhHTzU"
+  },
+  {
+    "nome": "Canion do Deserto",
+    "": [],
+    "tipo": "bioma",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "deserto",
+      "bioma"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/U-e_w9v0BwU/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=U-e_w9v0BwU"
+  },
+  {
+    "nome": "Carpinteiro",
+    "": [],
+    "tipo": "lugar",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "estabelecimento"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/or7IiL1i5sE/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=or7IiL1i5sE"
+  },
+  {
+    "nome": "Carroagem",
+    "": [],
+    "tipo": "LUGAR",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "cidade",
+      "vila",
+      "estabelecimento"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/2UnwwWvqYIc/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=2UnwwWvqYIc"
+  },
+  {
+    "nome": "Casa de banho",
+    "": [],
+    "tipo": "lugar",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "estabelecimento"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/FenYwtyhUzc/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=FenYwtyhUzc"
+  },
+  {
+    "nome": "Castelo Amaldicioado",
+    "": [],
+    "tipo": "lugar",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "castelo",
+      "sombrio"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/4ZelokMWpCk/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=4ZelokMWpCk"
+  },
+  {
+    "nome": "Cavalo e carroça",
+    "": [],
+    "tipo": "lugar",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "estabelecimento",
+      "vila",
+      "cidade"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/m2qKpoIxXB8/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=m2qKpoIxXB8"
+  },
+  {
+    "nome": "Cavalos",
+    "": [],
+    "tipo": "animal",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "vila"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/mtvETuH3q4M/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=mtvETuH3q4M"
+  },
+  {
+    "nome": "Caverna de Aranhas",
+    "": [],
+    "tipo": "masmorra",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "caverna",
+      "masmorra"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/-8U4tTlG5n4/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=-8U4tTlG5n4"
+  },
+  {
+    "nome": "Caverna de cristal",
+    "": [],
+    "tipo": "lugar",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "caverna",
+      "masmorra"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/-ck5wXXD-_4/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=-ck5wXXD-_4"
+  },
+  {
+    "nome": "Caverna de gelo",
+    "": [],
+    "tipo": "masmorra",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "gelo",
+      "caverna",
+      "masmorra"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/zNtAfmKP3CA/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=zNtAfmKP3CA"
+  },
+  {
+    "nome": "Caverna no deserto",
+    "": [],
+    "tipo": "masmorra",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "masmorra",
+      "deserto",
+      "caverna"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/lf7yb33oRbM/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=lf7yb33oRbM"
+  },
+  {
+    "nome": "Caverna Sombria Umida",
+    "": [],
+    "tipo": "masmorra",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "caverna",
+      "masmorra",
+      "sombrio"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/H0cF3t01T-w/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=H0cF3t01T-w"
+  },
+  {
+    "nome": "Caverna sombria",
+    "": [],
+    "tipo": "masmorra",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "caverna",
+      "masmorra"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/3radp0y5FFs/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=3radp0y5FFs"
+  },
+  {
+    "nome": "Cemitério amaldiçoado",
+    "": [],
+    "tipo": "lugar",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "sombrio",
+      "misterio"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/Wglz90bLvNA/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=Wglz90bLvNA"
+  },
+  {
+    "nome": "Cemitério",
+    "": [],
+    "tipo": "lugar",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "sombrio",
+      "misterio"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/9DMvOFglC9A/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=9DMvOFglC9A"
+  },
+  {
+    "nome": "Chuva e Trovão",
+    "": [],
+    "tipo": "bioma",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "bioma",
+      "chuva"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/2wqf6nvML7Y/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=2wqf6nvML7Y"
+  },
+  {
+    "nome": "Chuva na cidade vazia",
+    "": [],
+    "tipo": "cidade",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "cidade",
+      "chuva"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/YKCKOlZOLyc/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=YKCKOlZOLyc"
+  },
+  {
+    "nome": "Chuva na floresta",
+    "": [],
+    "tipo": "bioma",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "bioma",
+      "floresta",
+      "chuva"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/Uq-QJfX69sE/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=Uq-QJfX69sE"
+  },
+  {
+    "nome": "Cidade Africana",
+    "": [],
+    "tipo": "cidade",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "cidade",
+      "africana",
+      "oriente"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/p_rMe6MnzsM/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=p_rMe6MnzsM"
+  },
+  {
+    "nome": "Cidade Anã Subterrânea",
+    "": [],
+    "tipo": "cidade",
+    "clima": "escuro",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "cidade"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/Z44myVuSLe8/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=Z44myVuSLe8"
+  },
+  {
+    "nome": "Cidade Colapsando",
+    "": [],
+    "tipo": "cidade",
+    "clima": "nublado",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "cidade",
+      "batalha",
+      "colapso",
+      "ruina"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/5maXAc1uWG8/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=5maXAc1uWG8"
+  },
+  {
+    "nome": "Cidade dos Elfos Negros",
+    "": [],
+    "tipo": "cidade",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "cidade",
+      "elfo",
+      "sombrio"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/Jtz57E2seZY/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=Jtz57E2seZY"
+  },
+  {
+    "nome": "Cidade em Ruinas",
+    "": [],
+    "tipo": "cidade",
+    "clima": "nublado",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "cidade",
+      "ruina"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/41ID91zup7E/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=41ID91zup7E"
+  },
+  {
+    "nome": "Cidade Medieval Dia",
+    "": [],
+    "tipo": "cidade",
+    "clima": "sol",
+    "periodo": "dia",
+    "mood": "neutro",
+    "tags": [
+      "cidade",
+      "dia"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/WJrqwa6tMQY/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=WJrqwa6tMQY"
+  },
+  {
+    "nome": "Cidade Medieval Noite",
+    "": [],
+    "tipo": "cidade",
+    "clima": "lua",
+    "periodo": "noite",
+    "mood": "neutro",
+    "tags": [
+      "cidade",
+      "noite"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/FvgV3G-EnnQ/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=FvgV3G-EnnQ"
+  },
+  {
+    "nome": "Cidade Medieval Tarde",
+    "": [],
+    "tipo": "cidade",
+    "clima": "sol",
+    "periodo": "dia",
+    "mood": "movimentado",
+    "tags": [
+      "cidade",
+      "dia"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/_52K0E_gNY0/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=_52K0E_gNY0"
+  },
+  {
+    "nome": "Cidade Steampunk",
+    "": [],
+    "tipo": "cidade",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "cidade",
+      "steampunk"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/iM5kqv3ylhQ/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=iM5kqv3ylhQ"
+  },
+  {
+    "nome": "Colina ventosa",
+    "": [],
+    "tipo": "bioma",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "bioma",
+      "vento"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/oy0jX_I1CIU/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=oy0jX_I1CIU"
+  },
+  {
+    "nome": "Convés do dirigivel",
+    "": [],
+    "tipo": "lugar",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "navio"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/u_aQjdL3Y-o/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=u_aQjdL3Y-o"
+  },
+  {
+    "nome": "Costa gelada",
+    "": [],
+    "tipo": "bioma",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "bioma",
+      "gelo",
+      "costa"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/Y2yT3vH8x7M/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=Y2yT3vH8x7M"
+  },
+  {
+    "nome": "Costa tropical",
+    "": [],
+    "tipo": "bioma",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "bioma",
+      "costa",
+      "mar"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/wGUTsxxkB2E/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=wGUTsxxkB2E"
+  },
+  {
+    "nome": "Costa Ventando",
+    "": [],
+    "tipo": "bioma",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "costa",
+      "bioma"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/ST_cPtDe3-c/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=ST_cPtDe3-c"
+  },
+  {
+    "nome": "Costa",
+    "": [],
+    "tipo": "bioma",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "mar",
+      "costa"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/4W2EfqdOmiI/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=4W2EfqdOmiI"
+  },
+  {
+    "nome": "Covil subaquático",
+    "": [],
+    "tipo": "masmorra",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "masmorra",
+      "agua"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/h_oZIrPV_iU/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=h_oZIrPV_iU"
+  },
+  {
+    "nome": "De baixo d'água",
+    "": [],
+    "tipo": "bioma",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "bioma",
+      "agua"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/L93zhTneGBU/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=L93zhTneGBU"
+  },
+  {
+    "nome": "Dentro de casa",
+    "": [],
+    "tipo": "lugar",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "cidade",
+      "estabelecimento"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/inG4BLxwlJ4/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=inG4BLxwlJ4"
+  },
+  {
+    "nome": "Dentro do navio na tempestade",
+    "": [],
+    "tipo": "lugar",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "mar",
+      "navio",
+      "chuva"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/Bkjhoy4oaAI/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=Bkjhoy4oaAI"
+  },
+  {
+    "nome": "Deserto amaldiçoado",
+    "": [],
+    "tipo": "bioma",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "bioma",
+      "sombrio",
+      "deserto"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/GlOMCvl96cs/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=GlOMCvl96cs"
+  },
+  {
+    "nome": "Deserto Vento",
+    "": [],
+    "tipo": "bioma",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "deserto",
+      "vento"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/4E-_Xpj0Mgo/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=4E-_Xpj0Mgo"
+  },
+  {
+    "nome": "Dirigivel a Vela",
+    "": [],
+    "tipo": "lugar",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "navio"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/lvEl7Bn-720/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=lvEl7Bn-720"
+  },
+  {
+    "nome": "Dirigível na tempestade",
+    "": [],
+    "tipo": "lugar",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "navio",
+      "chuva"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/IJ5XD0IIbIg/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=IJ5XD0IIbIg"
+  },
+  {
+    "nome": "Dirigível propuncionando",
+    "": [],
+    "tipo": "lugar",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "navio"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/q262bXKBUOw/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=q262bXKBUOw"
+  },
+  {
+    "nome": "Enseada",
+    "": [],
+    "tipo": "bioma",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "bioma",
+      "mar"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/NrEiRL7VLhs/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=NrEiRL7VLhs"
+  },
+  {
+    "nome": "Esgoto",
+    "": [],
+    "tipo": "lugar",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "cidade",
+      "sombrio",
+      "esgoto"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/pv7sc85UZ-4/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=pv7sc85UZ-4"
+  },
+  {
+    "nome": "Ferreiro",
+    "": [],
+    "tipo": "lugar",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "cidade",
+      "estabelecimento"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/pRkFl9j3NLk/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=pRkFl9j3NLk"
+  },
+  {
+    "nome": "Festa Nobre",
+    "": [],
+    "tipo": "lugar",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "festa",
+      "nobre"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/qj0boS-gQTY/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=qj0boS-gQTY"
+  },
+  {
+    "nome": "Festival Asiatico",
+    "": [],
+    "tipo": "lugar",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "festa",
+      "festival",
+      "oriente"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/Z6c3AtIT7bU/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=Z6c3AtIT7bU"
+  },
+  {
+    "nome": "Festival",
+    "": [],
+    "tipo": "cidade",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "cidade",
+      "festival",
+      "mercado"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/rEfKdWSlcUo/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=rEfKdWSlcUo"
+  },
+  {
+    "nome": "Floresta a noite",
+    "": [],
+    "tipo": "bioma",
+    "clima": "sol",
+    "periodo": "noite",
+    "tags": [
+      "floresta",
+      "noite"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/ybTXj_OE4-k/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=ybTXj_OE4-k"
+  },
+  {
+    "nome": "Floresta amaldiçoada",
+    "": [],
+    "tipo": "bioma",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "bioma",
+      "floresta",
+      "sombrio"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/GJ_V2t-YHKQ/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=GJ_V2t-YHKQ"
+  },
+  {
+    "nome": "Floresta Crepuscular",
+    "": [],
+    "tipo": "bioma",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "floresta",
+      "bioma",
+      "magico"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/YtMWqnHSVYg/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=YtMWqnHSVYg"
+  },
+  {
+    "nome": "Floresta de cogumelos",
+    "": [],
+    "tipo": "bioma",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "bioma",
+      "floresta",
+      "magico"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/HiOSdOn1pcs/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=HiOSdOn1pcs"
+  },
+  {
+    "nome": "Floresta Elfica",
+    "": [],
+    "tipo": "bioma",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "floresta",
+      "bioma",
+      "magico",
+      "elfo"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/TnYzfLUy18U/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=TnYzfLUy18U"
+  },
+  {
+    "nome": "Floresta Misteriosa",
+    "": [],
+    "tipo": "bioma",
+    "clima": "quente",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "floresta",
+      "misterio"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/5Jzp5H4mQVE/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=5Jzp5H4mQVE"
+  },
+  {
+    "nome": "Floresta queimando",
+    "": [],
+    "tipo": "bioma",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [],
+    "thumbnail": "https://img.youtube.com/vi/iM5kqv3ylhQ/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=iM5kqv3ylhQ"
+  },
+  {
+    "nome": "Floresta Sombria",
+    "": [],
+    "tipo": "bioma",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "floresta",
+      "bioma",
+      "sombrio"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/7ElGv7zMqeY/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=7ElGv7zMqeY"
+  },
+  {
+    "nome": "Floresta Taiga",
+    "": [],
+    "tipo": "bioma",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "bioma",
+      "floresta"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/J4yp3l0EZPQ/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=J4yp3l0EZPQ"
+  },
+  {
+    "nome": "Floresta",
+    "": [],
+    "tipo": "bioma",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "bioma",
+      "floresta"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/HAw37tUHcOo/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=HAw37tUHcOo"
+  },
+  {
+    "nome": "Herborista",
+    "": [],
+    "tipo": "lugar",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "estabelecimento",
+      "mercado"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/vPk2W2L3Lbw/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=vPk2W2L3Lbw"
+  },
+  {
+    "nome": "Highlands tempestuoso",
+    "": [],
+    "tipo": "bioma",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "bioma"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/1zCDGPtDR8Q/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=1zCDGPtDR8Q"
+  },
+  {
+    "nome": "Inferno",
+    "": [],
+    "tipo": "planar",
+    "clima": "quente",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "plano",
+      "inferno"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/JzVIkY5tKcE/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=JzVIkY5tKcE"
+  },
+  {
+    "nome": "Interior do navio amaldicioado",
+    "": [],
+    "tipo": "lugar",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "navio",
+      "sombrio",
+      "mar"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/1u1ZXAYHiYQ/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=1u1ZXAYHiYQ"
+  },
+  {
+    "nome": "Interior do navio",
+    "": [],
+    "tipo": "lugar",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "navio",
+      "mar"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/7JZ4uBJLJ60/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=7JZ4uBJLJ60"
+  },
+  {
+    "nome": "Loja de itens magicos",
+    "": [],
+    "tipo": "lugar",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "mercado",
+      "estabelecimento",
+      "magico"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/x0CM_CPTotE/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=x0CM_CPTotE"
+  },
+  {
+    "nome": "Mar agitado",
+    "": [],
+    "tipo": "bioma",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "agua",
+      "mar",
+      "bioma"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/5E4IV2yOIkU/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=5E4IV2yOIkU"
+  },
+  {
+    "nome": "Masmorra vulcão",
+    "": [],
+    "tipo": "masmorra",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "masmorra"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/b9xUoHavp34/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=b9xUoHavp34"
+  },
+  {
+    "nome": "Mecanar",
+    "": [],
+    "tipo": "planar",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "plano"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/JiogkSyZrNE/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=JiogkSyZrNE"
+  },
+  {
+    "nome": "Mercado Negro",
+    "": [],
+    "tipo": "lugar",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "mercado",
+      "estabelecimento"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/vHaWAxh8vzU/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=vHaWAxh8vzU"
+  },
+  {
+    "nome": "Monastério na montanha",
+    "": [],
+    "tipo": "templo",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "Monasterio",
+      "templo",
+      "oriente"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/9jCTWTRGaAE/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=9jCTWTRGaAE"
+  },
+  {
+    "nome": "Mundo Espiritual",
+    "": [],
+    "tipo": "planar",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "plano"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/YRXCh3oIdX4/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=YRXCh3oIdX4"
+  },
+  {
+    "nome": "Naufrágio",
+    "": [],
+    "tipo": "lugar",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "navio",
+      "mar"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/y2ai5Sp_vdo/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=y2ai5Sp_vdo"
+  },
+  {
+    "nome": "Navio na tempestade",
+    "": [],
+    "tipo": "lugar",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "navio",
+      "mar"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/ZNz7yFEHtDs/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=ZNz7yFEHtDs"
+  },
+  {
+    "nome": "Nevasca",
+    "": [],
+    "tipo": "bioma",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "bioma",
+      "neve"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/cpGgQHAublY/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=cpGgQHAublY"
+  },
+  {
+    "nome": "Neve",
+    "": [],
+    "tipo": "bioma",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "neve",
+      "gelo",
+      "bioma"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/KIXySk4GId0/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=KIXySk4GId0"
+  },
+  {
+    "nome": "Oasis",
+    "": [],
+    "tipo": "bioma",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "deserto",
+      "agua"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/vWCs_v9axiI/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=vWCs_v9axiI"
+  },
+  {
+    "nome": "Oficina do Engenheiro",
+    "": [],
+    "tipo": "lugar",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "oficina",
+      "estabelecimento"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/8ceMOedFfbw/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=8ceMOedFfbw"
+  },
+  {
+    "nome": "Oficina do funileiro",
+    "": [],
+    "tipo": "lugar",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "oficina",
+      "estabelecimento"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/hCVA_0vRisw/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=hCVA_0vRisw"
+  },
+  {
+    "nome": "Pantano sombrio",
+    "": [],
+    "tipo": "bioma",
+    "clima": "neblina",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "pantano",
+      "sombrio"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/kzBx8TWcrG4/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=kzBx8TWcrG4"
+  },
+  {
+    "nome": "Pantano",
+    "": [],
+    "tipo": "bioma",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "bioma"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/fq_ZTJqJTcc/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=fq_ZTJqJTcc"
+  },
+  {
+    "nome": "Paraíso",
+    "": [],
+    "tipo": "planar",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "plano"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/RG1ydqEEa0c/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=RG1ydqEEa0c"
+  },
+  {
+    "nome": "Plano da Água",
+    "": [],
+    "tipo": "planar",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "plano",
+      "agua"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/BYfn8lgHlq4/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=BYfn8lgHlq4"
+  },
+  {
+    "nome": "Plano do Ar",
+    "": [],
+    "tipo": "planar",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "plano"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/8T26WG593uU/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=8T26WG593uU"
+  },
+  {
+    "nome": "Plano do Fogo",
+    "": [],
+    "tipo": "planar",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "plano"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/cA6fqZl1pYs/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=cA6fqZl1pYs"
+  },
+  {
+    "nome": "Porto Medieval",
+    "": [],
+    "tipo": "cidade",
+    "clima": "sol",
+    "periodo": "dia",
+    "mood": "calmo",
+    "tags": [
+      "porto",
+      "dia",
+      "cidade"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/t0AmfPQMs4k/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=t0AmfPQMs4k"
+  },
+  {
+    "nome": "Pousada",
+    "": [],
+    "tipo": "lugar",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "taverna",
+      "estabelecimento"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/uaX-2RMzVvQ/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=uaX-2RMzVvQ"
+  },
+  {
+    "nome": "Pradaria seca",
+    "": [],
+    "tipo": "bioma",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "bioma",
+      "deserto"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/WvmCUxpnePM/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=WvmCUxpnePM"
+  },
+  {
+    "nome": "Prisão",
+    "": [],
+    "tipo": "lugar",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "cidade",
+      "vila",
+      "estabelecimento"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/ztYZ1xaUMCc/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=ztYZ1xaUMCc"
+  },
+  {
+    "nome": "Pátio",
+    "": [],
+    "tipo": "cidade",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "cidade",
+      "vila"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/pYW6BYObVQM/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=pYW6BYObVQM"
+  },
+  {
+    "nome": "Pântano tropical",
+    "": [],
+    "tipo": "bioma",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "bioma",
+      "pantano"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/_XTebxxHO9Q/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=_XTebxxHO9Q"
+  },
+  {
+    "nome": "Quarto de Pousada a noite",
+    "": [],
+    "tipo": "lugar",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "taverna",
+      "estabelecimento"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/BP9p3R8pBsc/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=BP9p3R8pBsc"
+  },
+  {
+    "nome": "Quarto de Pousada de dia",
+    "": [],
+    "tipo": "lugar",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "taverna",
+      "estabelecimento"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/yRAUv3D1i3s/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=yRAUv3D1i3s"
+  },
+  {
+    "nome": "Rio no deserto",
+    "": [],
+    "tipo": "bioma",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "bioma",
+      "deserto",
+      "agua"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/Jcnzunu5BqI/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=Jcnzunu5BqI"
+  },
+  {
+    "nome": "Ruinas do castelo",
+    "": [],
+    "tipo": "lugar",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "cidade",
+      "castelo",
+      "ruina"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/TqH8B0_YV8M/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=TqH8B0_YV8M"
+  },
+  {
+    "nome": "Savana",
+    "": [],
+    "tipo": "bioma",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "bioma",
+      "africana"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/PQUGfRNNqtY/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=PQUGfRNNqtY"
+  },
+  {
+    "nome": "Selva de dinossauros",
+    "": [],
+    "tipo": "bioma",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "bioma",
+      "floresta"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/s8gvp2K796Y/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=s8gvp2K796Y"
+  },
+  {
+    "nome": "Selva",
+    "": [],
+    "tipo": "bioma",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "floresta",
+      "bioma"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/eWLDwkH71cM/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=eWLDwkH71cM"
+  },
+  {
+    "nome": "Submarino steampunk",
+    "": [],
+    "tipo": "lugar",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "navio",
+      "agua"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/KCrUMNxTTaM/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=KCrUMNxTTaM"
+  },
+  {
+    "nome": "Taverna Calma",
+    "": [],
+    "tipo": "lugar",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "taverna"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/EsyMNV1Ae6g/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=EsyMNV1Ae6g"
+  },
+  {
+    "nome": "Taverna Cheia",
+    "": [],
+    "tipo": "lugar",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "taverna",
+      "estabelecimento"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/KecVJnJcSI4/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=KecVJnJcSI4"
+  },
+  {
+    "nome": "Taverna de beco",
+    "": [],
+    "tipo": "lugar",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "taverna",
+      "estabelecimento"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/Ag8sbpNXBEQ/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=Ag8sbpNXBEQ"
+  },
+  {
+    "nome": "Taverna quieta",
+    "": [],
+    "tipo": "lugar",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "taverna",
+      "estabelecimento"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/b1DUhonNQXM/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=b1DUhonNQXM"
+  },
+  {
+    "nome": "Tempestade de Areia",
+    "": [],
+    "tipo": "bioma",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "bioma",
+      "deserto"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/2pP7orLxU4U/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=2pP7orLxU4U"
+  },
+  {
+    "nome": "Tempestade no mar",
+    "": [],
+    "tipo": "bioma",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "bioma",
+      "mar",
+      "chuva"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/MG1E6sVbNYE/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=MG1E6sVbNYE"
+  },
+  {
+    "nome": "Templo da forja",
+    "": [],
+    "tipo": "templo",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "templo"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/SezEnx5TQyE/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=SezEnx5TQyE"
+  },
+  {
+    "nome": "Templo da lua",
+    "": [],
+    "tipo": "templo",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "templo"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/tZBV2JJ20Hw/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=tZBV2JJ20Hw"
+  },
+  {
+    "nome": "Templo da Serpente",
+    "": [],
+    "tipo": "templo",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "templo"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/597U-UaVm-c/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=597U-UaVm-c"
+  },
+  {
+    "nome": "Templo da Vida",
+    "": [],
+    "tipo": "templo",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "templo"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/bftJ2fahn74/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=bftJ2fahn74"
+  },
+  {
+    "nome": "Templo da água",
+    "": [],
+    "tipo": "templo",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "templo",
+      "agua"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/ET7RNVdTh7Y/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=ET7RNVdTh7Y"
+  },
+  {
+    "nome": "Templo de Gelo",
+    "": [],
+    "tipo": "templo",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "templo"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/569cwo9GX-w/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=569cwo9GX-w"
+  },
+  {
+    "nome": "Templo do conhecimento",
+    "": [],
+    "tipo": "templo",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "templo"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/IA0_cxItj9s/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=IA0_cxItj9s"
+  },
+  {
+    "nome": "Templo dos mortos",
+    "": [],
+    "tipo": "templo",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "templo",
+      "sombrio"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/X399wHVZFng/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=X399wHVZFng"
+  },
+  {
+    "nome": "Templo Inferno",
+    "": [],
+    "tipo": "templo",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "templo",
+      "inferno"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/LrLaR8B-yyY/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=LrLaR8B-yyY"
+  },
+  {
+    "nome": "Templo Maligno",
+    "": [],
+    "tipo": "lugar",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "templo"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/WEEltzTwbE4/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=WEEltzTwbE4"
+  },
+  {
+    "nome": "Templo no Deserto",
+    "": [],
+    "tipo": "templo",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "deserto",
+      "templo"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/Zost8sfrQA8/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=Zost8sfrQA8"
+  },
+  {
+    "nome": "Templo Sagrado",
+    "": [],
+    "tipo": "templo",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "templo"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/bD4L0j5SrFM/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=bD4L0j5SrFM"
+  },
+  {
+    "nome": "Torre de mago",
+    "": [],
+    "tipo": "lugar",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "torre",
+      "magico"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/F7k5rqeU6t8/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=F7k5rqeU6t8"
+  },
+  {
+    "nome": "Trem a vapor com passageiros",
+    "": [],
+    "tipo": "lugar",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "estabelecimento"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/nfnSX35Wi3M/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=nfnSX35Wi3M"
+  },
+  {
+    "nome": "Trem a vapor",
+    "": [],
+    "tipo": "lugar",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "estabelecimento"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/O_EVR9HC95w/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=O_EVR9HC95w"
+  },
+  {
+    "nome": "Tundra Gelada",
+    "": [],
+    "tipo": "bioma",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "bioma",
+      "gelo"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/RhvyGiJs120/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=RhvyGiJs120"
+  },
+  {
+    "nome": "Tundra",
+    "": [],
+    "tipo": "bioma",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "bioma"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/xJN2COqmLg4/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=xJN2COqmLg4"
+  },
+  {
+    "nome": "Vila Dark",
+    "": [],
+    "tipo": "vila",
+    "clima": "neblina",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "cidade",
+      "steampunk",
+      "vila"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/ZniSzJxwPXw/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=ZniSzJxwPXw"
+  },
+  {
+    "nome": "Vila na Montanha",
+    "": [],
+    "tipo": "Vila",
+    "clima": "sol",
+    "periodo": "dia, tarde ou noite",
+    "tags": [
+      "vila",
+      "Montanha"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/wPRIQMj94kE/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=wPRIQMj94kE"
+  }
+]
